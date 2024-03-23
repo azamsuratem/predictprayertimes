@@ -35,18 +35,14 @@ CREATE TABLE [dbo].[t_time_prayer_sources]
 (
 	[source_id] INT IDENTITY(1,1) PRIMARY KEY,
 	[source_name] NVARCHAR(50) NOT NULL,
-	[source_url] VARCHAR(1024),
-	[source_param_1] VARCHAR(255),
-	[source_param_2] VARCHAR(255),
-	[source_param_3] VARCHAR(255),
-	[source_docs] VARCHAR(2048)
+	[source_url] VARCHAR(1024)
 );
 INSERT INTO [dbo].[t_time_prayer_sources]
-	([source_name],[source_url],[source_param_1],[source_param_2],[source_param_3],[source_docs])
+	([source_name],[source_url])
 VALUES
-	('e-Solat JAKIM', 'https://www.e-solat.gov.my/index.php', 'r=esolatApi/takwimsolat', 'period=month', 'zone=WLY01', 'https://gist.github.com/lomotech/b25cde7118adf5e7a1fea4ce6cfce259'),
-	('Islamic Finder', 'https://www.islamicfinder.org/prayer-times/', 'document.getElementById("monthly-prayers").innerText;', NULL, NULL, NULL),
-	('Muslim Pro', 'https://muslimpro-scrapper.lleans.dev/', '', 'calculationMethod=JAKIM_JABATAN_KEMAJUAN_ISLAM_MALAYSIA', 'asrjuristicMethod=STANDARD_SHAFI_MALIKI_HANBALI', 'https://github.com/lleans/Muslim-Pro-Scrapper')
+	('e-Solat JAKIM', 'https://www.e-solat.gov.my/index.php'),
+	('Islamic Finder', 'https://www.islamicfinder.org/prayer-times/'),
+	('Muslim Pro', 'https://www.muslimpro.com/en/find')
 ;
 
 -- time stamp based on date & time prayer name
