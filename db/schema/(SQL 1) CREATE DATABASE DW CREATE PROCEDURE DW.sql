@@ -147,12 +147,15 @@ ALTER PROCEDURE [dbo].[p_time_prayer_source_x_get]
 )
 AS
 BEGIN
-	IF (@source_id = 1)
+	IF (@source_id IS NULL OR @source_id = 1)
 	BEGIN
+		DECLARE @errNull VARCHAR(1024) = 'NULL @source_id is parsed, fall back to use default source_id = 1';
+		IF (@source_id IS NULL) RAISERROR(@errNull, 11, 1);
+
 		SELECT time_date, time_fajr, time_zuhr, time_asr, time_maghrib, time_isha
 		FROM t_time_prayer_source_1
 		WHERE @time_start IS NULL OR CONVERT(DATE, @time_start) >= time_date
-		AND @time_end IS NULL OR CONVERT(DATE, @time_end) <= time_date 
+		AND @time_end IS NULL OR CONVERT(DATE, @time_end) <= time_date
 	END
 	ELSE IF (@source_id = 2)
 	BEGIN
@@ -168,10 +171,15 @@ BEGIN
 		WHERE @time_start IS NULL OR CONVERT(DATE, @time_start) >= time_date
 		AND @time_end IS NULL OR CONVERT(DATE, @time_end) <= time_date 
 	END
+	ELSE IF (@source_id <= 0)
+	BEGIN
+		DECLARE @errInput VARCHAR(1024) = 'Wrong integer parsed for @source_id!';
+		THROW 55000, @errInput, 1;
+	END
 	ELSE
 	BEGIN
-		DECLARE @err VARCHAR(1024) = 'No such table exists for t_time_prayer_source_' + CAST(@source_id AS VARCHAR(2));
-		THROW 23100, @err, 1; 
+		DECLARE @errNotFound VARCHAR(1024) = 'No such table exists for t_time_prayer_source_' + CAST(@source_id AS VARCHAR(2)) + '!';
+		THROW 51000, @errNotFound, 1; 
 	END
 END
 GO
