@@ -21,15 +21,6 @@ GO
 
 /* 2. Create Tables */
 
--- prayer names
-CREATE TABLE [dbo].[t_time_prayer_names]
-(
-	[time_prayer_id] TINYINT NOT NULL PRIMARY KEY,
-	[time_prayer_name] NVARCHAR(10) NOT NULL
-);
-INSERT INTO [dbo].[t_time_prayer_names]
-VALUES (1,'Fajr'),(2,'Zuhr'),(3,'Asr'),(4,'Maghrib'),(5,'Isha');
-
 -- data source & its URL
 CREATE TABLE [dbo].[t_time_prayer_sources]
 (
@@ -49,8 +40,7 @@ VALUES
 CREATE TABLE [dbo].[t_time_stamp]
 (
 	[time_id] INT IDENTITY(1,1) PRIMARY KEY,
-	[time_date] DATE NOT NULL,
-	[time_prayer_id] TINYINT NOT NULL
+	[time_date] DATE NOT NULL
 );
 
 -- e-Solat JAKIM, from 2018-01-01 to 2024-12-31
@@ -88,21 +78,7 @@ CREATE TABLE [dbo].[t_time_prayer_source_3]
 
 /* 3. Create Stored Procedures */
 
-IF NOT EXISTS (SELECT 1 FROM [sys].[procedures] WHERE [name] = 'p_time_prayer_names_get')
-	EXEC ('CREATE PROCEDURE [dbo].[p_time_prayer_names_get] AS SET NOCOUNT ON;')
-GO
-
-ALTER PROCEDURE [dbo].[p_time_prayer_names_get]
-AS
-BEGIN
-	SELECT time_prayer_id, time_prayer_name
-	FROM t_time_prayer_names
-	ORDER BY time_prayer_id ASC
-END
-GO
-
-
-IF NOT EXISTS (SELECT 1 FROM [sys].[procedures] WHERE [name] = 'p_time_prayer_sources_get')
+IF NOT EXISTS (SELECT 1 FROM [sys].[procedures] WHERE [object_id] = OBJECT_ID('p_time_prayer_sources_get'))
 	EXEC ('CREATE PROCEDURE [dbo].[p_time_prayer_sources_get] AS SET NOCOUNT ON;')
 GO
 
@@ -116,7 +92,7 @@ END
 GO
 
 
-IF NOT EXISTS (SELECT 1 FROM [sys].[procedures] WHERE [name] = 'p_time_stamp_get')
+IF NOT EXISTS (SELECT 1 FROM [sys].[procedures] WHERE [object_id] = OBJECT_ID('p_time_stamp_get'))
 	EXEC ('CREATE PROCEDURE [dbo].[p_time_stamp_get] AS SET NOCOUNT ON;')
 GO
 
@@ -135,7 +111,7 @@ END
 GO
 
 
-IF NOT EXISTS (SELECT 1 FROM [sys].[procedures] WHERE [name] = 'p_time_prayer_source_x_get')
+IF NOT EXISTS (SELECT 1 FROM [sys].[procedures] WHERE [object_id] = OBJECT_ID('p_time_prayer_source_x_get'))
 	EXEC ('CREATE PROCEDURE [dbo].[p_time_prayer_source_x_get] AS SET NOCOUNT ON;')
 GO
 
