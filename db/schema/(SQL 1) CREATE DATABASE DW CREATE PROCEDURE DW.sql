@@ -160,3 +160,71 @@ BEGIN
 END
 GO
 
+
+IF NOT EXISTS (SELECT 1 FROM [sys].[procedures] WHERE [object_id] = OBJECT_ID('p_time_stamp_update'))
+	EXEC ('CREATE PROCEDURE [dbo].[p_time_stamp_update] AS SET NOCOUNT ON;')
+GO
+
+ALTER PROCEDURE [dbo].[p_time_stamp_get]
+AS
+BEGIN
+	IF NOT EXISTS (
+		SELECT 1 FROM [dbo].[t_time_prayer_source_1]
+		UNION ALL
+		SELECT 1 FROM [dbo].[t_time_prayer_source_2]
+		UNION ALL
+		SELECT 1 FROM [dbo].[t_time_prayer_source_3]
+	)
+		RETURN
+	
+	CREATE TABLE #all_dates (time_date DATETIME);
+
+	WITH cte_dates AS (
+		SELECT DISTINCT time_date FROM t_time_prayer_source_1
+		UNION ALL
+		SELECT DISTINCT time_date FROM t_time_prayer_source_2
+		UNION ALL
+		SELECT DISTINCT time_date FROM t_time_prayer_source_3
+	)
+	INSERT INTO #all_dates (time_date)
+	SELECT time_date FROM cte_dates GROUP BY time_date;
+
+	DECLARE 
+		@row_count_raw BIGINT, @first_date_raw DATETIME, @last_date_raw DATETIME
+		,@row_count_saved BIGINT, @first_date_saved DATETIME, @last_date_saved DATETIME
+	;
+
+	SELECT
+		@row_count_raw = COUNT(time_date)
+		,@first_date_raw = MIN(time_date)
+		,@last_date_raw = MAX(time_date)
+		FROM #all_dates;
+
+	SELECT
+		@row_count_saved = COUNT(time_date)
+		,@first_date_saved = MIN(time_date)
+		,@last_date_saved = MAX(time_date)
+		FROM t_time_stamp;
+
+	IF (
+		@row_count_raw = @row_count_saved
+		AND @first_date_raw = @first_date_saved
+		AND @last_date_raw = @last_date_saved
+	)
+	BEGIN
+		DROP TABLE #all_dates;
+		RETURN
+	END
+
+	SET IDENTITY_INSERT t_time_stamp ON
+	
+	DELETE FROM t_time_stamp;
+	
+	INSERT INTO t_time_stamp (time_id, time_date)
+	SELECT ROW_NUMBER() OVER (ORDER BY time_date ASC), time_date
+	FROM #all_dates ORDER BY time_date ASC;
+
+	SET IDENTITY_INSERT t_time_stamp OFF
+
+	DROP TABLE #all_dates;
+END
