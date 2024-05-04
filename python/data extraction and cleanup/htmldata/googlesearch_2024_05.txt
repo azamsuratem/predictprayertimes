@@ -270,6 +270,23 @@
             <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:20</div></td>
             <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:35</div></td>
         </tr>
-        <!-- TODO: Insert data from 30 May & 31 May -->
+        <tr data-day-index="30" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">30 May</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">05:50</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:02</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:12</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:38</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:21</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:35</div></td>
+        </tr>
+        <tr data-day-index="31" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">31 May</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">05:50</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:02</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:12</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:38</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:21</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:35</div></td>
+        </tr>
     </tbody>
 </table>
