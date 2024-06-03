@@ -1,0 +1,23 @@
+<table>
+    <tbody>
+        <tr>
+            <td class="wUml3"></td>
+            <td class="GrGc6 dp1XAc"><div class="M5Qt2d">Fajr</div></td>
+            <td class="GrGc6 dp1XAc"><div class="M5Qt2d">Sunrise</div></td>
+            <td class="GrGc6 dp1XAc"><div class="M5Qt2d">Dhuhr</div></td>
+            <td class="GrGc6 dp1XAc"><div class="M5Qt2d">Asr</div></td>
+            <td class="GrGc6 dp1XAc"><div class="M5Qt2d">Maghrib</div></td>
+            <td class="GrGc6 dp1XAc"><div class="M5Qt2d">Isha</div></td>
+        </tr>
+        <tr data-day-index="1" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">1 Jul</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">05:54</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:08</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:18</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:45</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:27</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:43</div></td>
+        </tr>
+
+    </tbody>
+</table>
