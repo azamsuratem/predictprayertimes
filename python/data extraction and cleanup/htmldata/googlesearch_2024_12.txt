@@ -279,5 +279,23 @@
             <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:15</div></td>
             <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:30</div></td>
         </tr>
+        <tr data-day-index="30" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">30 Dec</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:05</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:17</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:17</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:41</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:15</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:30</div></td>
+        </tr>
+        <tr data-day-index="31" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">31 Dec</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:05</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:18</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:17</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:41</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:16</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:30</div></td>
+        </tr>
     </tbody>
 </table>
