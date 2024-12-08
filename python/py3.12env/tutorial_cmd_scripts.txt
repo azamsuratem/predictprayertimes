@@ -1,0 +1,43 @@
+cmd - Run as Administrator
+
+1. check venv is installed
+py -m pip show virtualenv
+
+2. cd to work dir
+cd C:\source\repos\predictprayertimes\python
+
+3. create venv - which will auto-create venv folder
+py -3.12 -m venv py3.12env
+
+4. cd to folder Scripts inside the venv folder
+cd py3.12env -> cd Scripts
+
+5. Activate venv
+activate
+
+6. install uv for faster packages install/uninstall
+py -m pip install uv
+
+7. install numpy version 1.26.4 (torch currently only supports numpy version 1.x)
+py -m uv pip install numpy==1.26.4
+
+8. install other needed packages
+py -m uv pip install pandas
+py -m uv pip install matplotlib
+py -m uv pip install seaborn
+py -m uv pip install statsmodels
+py -m uv pip install scipy
+py -m uv pip install scikit-learn
+py -m uv pip install requests
+py -m uv pip install beautifulsoup4
+py -m uv pip install selenium
+py -m uv pip install lxml
+py -m uv pip install missingno
+py -m uv pip install pyodbc
+py -m uv pip install ipykernel
+
+9. install torch version 2.2.0+cpu to use CPU-version PyTorch
+py -m uv pip install torch==2.2.0+cpu --index-url https://download.pytorch.org/whl/cpu
+
+10. install torchbnn
+py -m uv pip install torchbnn
