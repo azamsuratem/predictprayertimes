@@ -3,14 +3,14 @@ cmd - Run as Administrator
 1. check venv is installed
 py -m pip show virtualenv
 
-2. cd to work dir
-cd C:\source\repos\predictprayertimes\python
+2. cd to repo dir
+cd C:\source\repos\predictprayertimes
 
 3. create venv - which will auto-create venv folder
-py -3.12 -m venv py3.12env
+py -3.12 -m venv .venv
 
 4. cd to folder Scripts inside the venv folder
-cd py3.12env -> cd Scripts
+cd .venv -> cd Scripts
 
 5. Activate venv
 activate
