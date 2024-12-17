@@ -35,9 +35,3 @@ py -m uv pip install lxml
 py -m uv pip install missingno
 py -m uv pip install pyodbc
 py -m uv pip install ipykernel
-
-9. install torch version 2.2.0+cpu to use CPU-version PyTorch
-py -m uv pip install torch==2.2.0+cpu --index-url https://download.pytorch.org/whl/cpu
-
-10. install torchbnn
-py -m uv pip install torchbnn
