@@ -1,0 +1,256 @@
+<table class="bvYrdf">
+    <tbody>
+        <tr>
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">2025</div></td>
+            <td class="GrGc6 dp1XAc"><div class="M5Qt2d">Fajr</div></td>
+            <td class="GrGc6 dp1XAc"><div class="M5Qt2d">Sunrise</div></td>
+            <td class="GrGc6 dp1XAc"><div class="M5Qt2d">Dhuhr</div></td>
+            <td class="GrGc6 dp1XAc"><div class="M5Qt2d">Asr</div></td>
+            <td class="GrGc6 dp1XAc"><div class="M5Qt2d">Maghrib</div></td>
+            <td class="GrGc6 dp1XAc"><div class="M5Qt2d">Isha</div></td>
+        </tr>
+        <tr data-day-index="1" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">1 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:06</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:18</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:18</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:42</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:16</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:31</div></td>
+        </tr>
+        <tr data-day-index="2" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">2 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:06</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:19</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:18</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:42</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:17</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:31</div></td>
+        </tr>
+        <tr data-day-index="3" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">3 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:07</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:19</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:18</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:43</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:17</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:32</div></td>
+        </tr>
+        <tr data-day-index="4" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">4 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:07</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:20</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:19</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:43</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:18</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:32</div></td>
+        </tr>
+        <tr data-day-index="5" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">5 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:08</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:20</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:19</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:44</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:18</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:33</div></td>
+        </tr>
+        <tr data-day-index="6" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">6 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:08</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:21</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:20</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:44</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:19</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:33</div></td>
+        </tr>
+        <tr data-day-index="7" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">7 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:09</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:21</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:20</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:44</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:19</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:33</div></td>
+        </tr>
+        <tr data-day-index="8" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">8 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:09</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:21</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:21</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:45</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:20</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:34</div></td>
+        </tr>
+        <tr data-day-index="9" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">9 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:10</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:22</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:21</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:45</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:20</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:34</div></td>
+        </tr>
+        <tr data-day-index="10" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">10 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:10</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:22</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:22</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:46</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:20</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:34</div></td>
+        </tr>
+        <tr data-day-index="11" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">11 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:11</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:22</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:22</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:46</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:21</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:35</div></td>
+        </tr>
+        <tr data-day-index="12" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">12 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:11</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:23</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:22</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:46</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:21</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:35</div></td>
+        </tr>
+        <tr data-day-index="13" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">13 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:12</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:23</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:23</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:47</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:22</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:35</div></td>
+        </tr>
+        <tr data-day-index="14" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">14 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:12</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:24</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:23</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:47</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:22</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:36</div></td>
+        </tr>
+        <tr data-day-index="15" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">15 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:13</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:24</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:23</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:47</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:22</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:36</div></td>
+        </tr>
+        <tr data-day-index="16" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">16 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:13</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:24</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:24</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:48</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:23</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:36</div></td>
+        </tr>
+        <tr data-day-index="17" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">17 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:13</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:24</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:24</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:48</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:23</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:37</div></td>
+        </tr>
+        <tr data-day-index="18" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">18 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:14</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:25</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:24</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:48</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:24</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:37</div></td>
+        </tr>
+        <tr data-day-index="19" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">19 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:14</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:25</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:25</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:48</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:24</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:37</div></td>
+        </tr>
+        <tr data-day-index="20" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">20 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:14</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:25</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:25</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:49</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:24</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:37</div></td>
+        </tr>
+        <tr data-day-index="21" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">21 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:15</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:25</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:25</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:49</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:25</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:38</div></td>
+        </tr>
+        <tr data-day-index="22" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">22 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:15</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:26</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:26</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:49</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:25</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:38</div></td>
+        </tr>
+        <tr data-day-index="23" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">23 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:16</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:26</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:26</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:49</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:25</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:38</div></td>
+        </tr>
+        <tr data-day-index="24" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">24 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:16</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:26</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:26</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:49</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:26</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:38</div></td>
+        </tr>
+        <tr data-day-index="25" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">25 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:16</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:26</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:26</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:50</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:26</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:38</div></td>
+        </tr>
+        <tr data-day-index="26" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">26 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:16</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:26</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:27</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:50</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:26</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:39</div></td>
+        </tr>
+        <tr data-day-index="27" class="ptrow">
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">27 Jan</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">06:17</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">07:27</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">13:27</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">16:50</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">19:26</div></td>
+            <td class="GrGc6 fU9nkc"><div class="M5Qt2d ptv">20:39</div></td>
+        </tr>
+    </tbody>
+</table>
