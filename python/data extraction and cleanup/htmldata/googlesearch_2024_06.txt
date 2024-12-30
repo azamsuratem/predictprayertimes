@@ -1,7 +1,7 @@
 <table>
     <tbody>
         <tr>
-            <td class="wUml3"></td>
+            <td class="wUml3 fU9nkc"><div class="M5Qt2d">2024</div></td>
             <td class="GrGc6 dp1XAc"><div class="M5Qt2d">Fajr</div></td>
             <td class="GrGc6 dp1XAc"><div class="M5Qt2d">Sunrise</div></td>
             <td class="GrGc6 dp1XAc"><div class="M5Qt2d">Dhuhr</div></td>
